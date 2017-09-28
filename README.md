@@ -2,5 +2,5 @@
 code voor de honda accord
 een lijntje toevoegen
 
-een tweede keer toevoegen zonder comit
-en een derde keer met comit
+een tweede keer toevoegen zonder commit
+en een derde keer met commit
