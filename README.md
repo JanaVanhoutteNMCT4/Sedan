@@ -5,4 +5,10 @@ een lijntje toevoegen
 een tweede keer toevoegen zonder commit
 en een derde keer met commit
 
+
+ik voeg een open dak toe
+
+ik ga nog een open dak toevoegen
+
 ik plaats een spoiler
+
